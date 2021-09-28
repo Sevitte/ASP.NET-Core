@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NEY Core Angular PostgreSQL", "ASP.NEY Core Angular PostgreSQL.csproj", "{840FBD1A-30DC-4390-B31F-C4ABB37848E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{840FBD1A-30DC-4390-B31F-C4ABB37848E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840FBD1A-30DC-4390-B31F-C4ABB37848E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840FBD1A-30DC-4390-B31F-C4ABB37848E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840FBD1A-30DC-4390-B31F-C4ABB37848E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {333CA3E8-6980-4527-85A5-2AC07285CBEC}
+	EndGlobalSection
+EndGlobal
